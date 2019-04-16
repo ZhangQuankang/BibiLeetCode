@@ -1,5 +1,7 @@
 package List;
 
+import List.Base.ListNode;
+
 /**
  * 交换链表中的相邻节点
  * 输入: 1->2->3->4->NULL

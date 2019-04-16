@@ -1,5 +1,7 @@
 package List;
 
+import List.Base.ListNode;
+
 /**
  * 反转链表：
  * 输入: 1->2->3->4->5->NULL
